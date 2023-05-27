@@ -5,7 +5,7 @@
 ---
 ### What I'm Working On ATM :hatching_chick::hatching_chick::hatching_chick:  
 + AlarmBot: an alarm clock that runs away when the alarm goes off (<img alt="py" src = "https://img.shields.io/badge/-Python-3A76A6?style=flat-square&logo=python&logoColor=white" /> <img alt="opencv" src = "https://img.shields.io/badge/-OpenCV-54a62e?style=flat-square&logo=opencv&logoColor=white" /> <img alt="ros" src = "https://img.shields.io/badge/-ROS-212E4A?style=flat-square&logo=ros&logoColor=white" />)
-+ Portfolio Website: using three.js to create a prettier, more interactive website for my portfolio (<img alt="3js" src = "https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=javascript&logoColor=white" /> <img alt="HTML5" src = "https://img.shields.io/badge/-HTML5-d43939?style=flat-square&logo=HTML5&logoColor=white" /><img alt="CSS3" src = "https://img.shields.io/badge/-CSS3-FF9725?style=flat-square&logo=css3&logoColor=white" />
++ Portfolio Website: using three.js to create a prettier, more interactive website for my portfolio (<img alt="3js" src = "https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=javascript&logoColor=white" />  <img alt="HTML5" src = "https://img.shields.io/badge/-HTML5-d43939?style=flat-square&logo=HTML5&logoColor=white" /> <img alt="CSS3" src = "https://img.shields.io/badge/-CSS3-3461eb?style=flat-square&logo=css3&logoColor=white" />)
 ---
 
 <!--
