@@ -6,7 +6,7 @@ I'm Sean Kelman. I am Computer Science Major studying at the University of Calif
 ---
 ### What I'm Working On At The Moment :hatching_chick::hatching_chick::hatching_chick:  
 + [MicroMouse](https://github.com/srukelman/micromouse) : I saw a few videos of micromouse and found the concept intriguing, so I decided to try my own. This was also an opportunity for me to practice my data structures and algorithms to make the fastest maze-solving algorithm.
-+ [RFID App]([https://](https://github.com/srukelman/rfidApp): I wanted to make an app where I could scan RFID/NFC tags, save the value and recreate those values with a phone so I could remove the need for me to carry and access badge everywhere just to get into buildings. Also because I take my phone everywhere so I would never get locked out if I forgot by access badge.
++ [RFID App](https://github.com/srukelman/rfidApp): I wanted to make an app where I could scan RFID/NFC tags, save the value and recreate those values with a phone so I could remove the need for me to carry and access badge everywhere just to get into buildings. Also because I take my phone everywhere so I would never get locked out if I forgot by access badge.
 ---
 ### My Past Projects :hatched_chick::hatched_chick::hatched_chick:
 + [Stock Option Webscraper](https://github.com/srukelman/stockOptionWebScraping) : I taught myself webscraping in **python** in order to quickly gather data from Yahoo Finance on PUT options for DOW stocks, then analyzed and sorted data to help select best PUT options to buy. Later I added a GUI to make it more user friendly and a program to open charts to look more in depth at each stock selection.
