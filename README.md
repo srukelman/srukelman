@@ -1,4 +1,5 @@
 # Hi There! :smiley::wave::wave::wave:
+
 I'm Sean Kelman. I am Computer Science Major studying at the University of California, Irvine. 
 ---
 ### Things I Code With :cherry_blossom::cherry_blossom::cherry_blossom:  
