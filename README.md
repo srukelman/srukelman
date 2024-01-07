@@ -7,6 +7,7 @@ I'm Sean Kelman. I am Computer Science Major studying at the University of Calif
 ---
 ### What I'm Working On At The Moment :hatching_chick::hatching_chick::hatching_chick:  
 + [AntAlmanac](https://github.com/icssc/AntAlmanac) : As a member of UCI [ICSSC](https://github.com/icssc) I am contributing to an open-source tool for UCI students to plan out schedules for upcoming quarters
++ [Calorie Tracker](https://github.com/srukelman/calorie-tracker) : I am making a calorie tracker app using React, Express, and SQL to help me keep track of my diet.
 
 ---
 ### My Past Projects :hatched_chick::hatched_chick::hatched_chick:
