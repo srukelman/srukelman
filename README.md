@@ -11,6 +11,7 @@ I'm Sean Kelman. I am Computer Science Major studying at the University of Calif
 
 ---
 ### My Past Projects :hatched_chick::hatched_chick::hatched_chick:
++ [Commit The Change](https://ctc-uci.com/) : Contributed to the developement of a donation management dashboard that aids Feeding Pets of the Homeless (FPH), a nonprofit.
 + [Stock Option Webscraper](https://github.com/srukelman/stockOptionWebScraping) : I taught myself webscraping in **python** in order to quickly gather data from Yahoo Finance on PUT options for DOW stocks, then analyzed and sorted data to help select best PUT options to buy. Later I added a GUI to make it more user friendly and a program to open charts to look more in depth at each stock selection.
 + [Personal Website/PWA](https://github.com/srukelman/pwa): I taught myself ReactJS to build a new personal website to improve upon an old basic HTML and CSS only version. Then I created service workers and made a few other modifications to transform my webapp into a progressive webapp that can actually be installed like an app on your phone.
 + [Robot Code for Team 6220 FIRST Robotics Competition](https://github.com/Team-6220/2023) : code for the robot that won **2nd place** at our regional competition in 2023
