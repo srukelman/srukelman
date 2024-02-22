@@ -1,4 +1,4 @@
-# Hi There! :smiley::wave::wave::wave:
+# Haiii! :3 :smiley::wave::wave::wave:
 
 I'm Sean Kelman. I am Computer Science Major studying at the University of California, Irvine. 
 ---
